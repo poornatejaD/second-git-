@@ -1,4 +1,4 @@
-public class VowelConsonant {
+opublic class VowelConsonant {
 
     public static void main(String[] args) {
 
@@ -9,4 +9,5 @@ public class VowelConsonant {
         else
         
 
-hi
+hi hello
+
